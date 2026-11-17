@@ -12,7 +12,7 @@ Trabalho desde 2020 onde a estratégia comercial vira operação: CRM, dados, fo
 
 ### O que eu construí
 
-**Pulsar** · Painel de RevOps em produção na liderança. Marketing, Vendas, CS, Produto e Receita num lugar só, com mais de 40 telas e versões para computador, celular e TV. Construído com IA, sem time de engenharia dedicado.
+**Pulsar** · Painel de RevOps em produção na liderança. Marketing, Vendas, CS, Produto e Receita num lugar só, com mais de 40 telas e versões para computador, celular e TV. Construído com IA, sem time de engenharia dedicado. A demo pública se chama Norn: mesma estrutura, marca Ygg e dados fictícios.
 
 **Ygg Hub** · Plataforma que opera 5 perfis de conteúdo com agentes de IA: pauta, produção, cortes de podcast, agendamento e publicação. A única etapa humana é a aprovação.
 
