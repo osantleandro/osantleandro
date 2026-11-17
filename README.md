@@ -21,7 +21,7 @@ Trabalho desde 2020 onde a estratégia comercial vira operação: CRM, dados, fo
 ### Trajetória
 
 - **Octadesk (LWSA)** · Analista de Operações III, Revenue Operations · 2025 até hoje
-- **Prestex** · Analista de Inteligência de Mercado Sr. · 2024 a 2025 · lead scoring Fit x Potencial, curva ABC da carteira, régua de relacionamento por perfil, lead score e HubSpot, ações que ajudaram a receita a crescer 36%
+- **Prestex** · Analista de Inteligência de Mercado Sr. · 2024 a 2025 · lead scoring Fit x Potencial, curva ABC da carteira, régua de relacionamento por perfil e HubSpot, ações que ajudaram a receita a crescer 36%
 - **Grupo Ideal Trends** · Analista de CRM, Coordenador e Gerente de Inteligência Comercial · 2020 a 2024 · 14 pessoas como coordenador, 3 squads como gerente
 
 ### Stack
